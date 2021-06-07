@@ -1,7 +1,0 @@
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\bin\Debug\ParticleSworm.exe.config
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\bin\Debug\ParticleSworm.exe
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\bin\Debug\ParticleSworm.pdb
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\obj\Debug\ParticleSworm.csprojAssemblyReference.cache
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\obj\Debug\ParticleSworm.csproj.CoreCompileInputs.cache
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\obj\Debug\ParticleSworm.exe
-C:\Users\barte\source\repos\ParticleSworm\ParticleSworm\obj\Debug\ParticleSworm.pdb
